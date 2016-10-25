@@ -12,6 +12,7 @@ namespace Heloo
         {
             Console.WriteLine("Aaa");
             Console.WriteLine("Aaa");
+            Console.Read();
         }
     }
 }
