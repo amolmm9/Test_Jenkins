@@ -11,6 +11,7 @@ namespace Heloo
         static void Main(string[] args)
         {
             Console.WriteLine("Aaa");
+            Console.WriteLine("Aaa");
         }
     }
 }
